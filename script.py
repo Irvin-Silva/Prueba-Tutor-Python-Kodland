@@ -210,7 +210,7 @@ def start_the_game():
             screen.blit(txt, (x_pos, y_pos))
 
             
-            pause_msg = font.render("PULSA P PARA PAUSAR", True, (255, 255, 255))
+            pause_msg = font.render("PULSA P PARA PAUSAR", True, (0, 0, 0))
             screen.blit(pause_msg, (SCREEN_WIDTH // 2 - pause_msg.get_width() // 2, SCREEN_HEIGHT // 2 + 100))
 
         if not menu:
