@@ -2,6 +2,8 @@
 
 Este proyecto es una implementación del popular juego *Flappy Bird* usando Pygame, un módulo de Python para el desarrollo de videojuegos. En este juego, controlas un pájaro que debe evitar los tubos que se mueven hacia él mientras navega por la pantalla. El objetivo es sobrevivir el mayor tiempo posible y obtener la mejor puntuación.
 
+![Imagen del juego](https://raw.githubusercontent.com/Irvin-Silva/Prueba-Tutor-Python-Kodland/a19a6abc1c4d035e05c5baa4ddec917475d1bde6/demo/1209.gif)
+
 ## Características principales
 
 - **Control del pájaro**: Utiliza la tecla `ESPACIO` para hacer que el pájaro salte. La gravedad lo hará caer automáticamente, pero presionar la tecla hace que el pájaro suba.
