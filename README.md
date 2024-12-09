@@ -25,6 +25,9 @@ Este proyecto es una implementación del popular juego *Flappy Bird* usando Pyga
 ### Iniciar el juego:
 - Haz clic en cualquier parte de la pantalla para iniciar el juego. Después de una breve cuenta regresiva, podrás controlar al pájaro usando la tecla `ESPACIO`.
 
+
+![Imagen del juego](https://raw.githubusercontent.com/Irvin-Silva/Prueba-Tutor-Python-Kodland/a19a6abc1c4d035e05c5baa4ddec917475d1bde6/demo/demo-1.png)
+
 ### Controlar el pájaro:
 - Usa la tecla `ESPACIO` para hacer que el pájaro suba. El pájaro caerá debido a la gravedad cuando no se presione ninguna tecla.
 
